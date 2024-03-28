@@ -1,0 +1,29 @@
+.nav-container{
+  display: flex;
+  justify-content: space-between;
+  align-items: center;
+  padding: 4px 20px;
+  background-color:black;
+  color: white;
+}
+.search{
+  font-size: 2em;
+  display: flex;
+  align-items: center;
+  gap: 10px;
+}
+.search input{
+  width: 400px;
+  height: 25px;
+}
+.orders-cart{
+  display: flex;
+  justify-content: space-between;
+  align-items: center;
+  gap: 20px;
+}
+.orders-cart button{
+  font-size: 2em;
+}
+
+

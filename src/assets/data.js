@@ -1,0 +1,201 @@
+export const data=[
+  {
+    productName : 'Black and Gray Athletic Cotton Socks - 6 Pairs',
+    id:1,
+    rating:4.5,
+    price:10.90,
+    color:null,
+    size:null,
+    set:null,
+    style:null,
+    image:'https://supersimple.dev/projects/amazon/images/products/athletic-cotton-socks-6-pairs.jpg'
+  },
+  {
+    productName : 'Intermediate Size Basketball',
+    id:2,
+    rating:4,
+    price:20.95,
+    color:null,
+    size:null,
+    set:null,
+    style:null,
+    image:'https://supersimple.dev/projects/amazon/images/products/intermediate-composite-basketball.jpg'
+  },
+  {
+    productName : 'Adults Plain Cotton T-Shirt - 2 Pack',
+    id:3,
+    rating:4.5,
+    price:7.99,
+    color:null,
+    size:null,
+    set:null,
+    style:null,
+    image:'https://supersimple.dev/projects/amazon/images/products/adults-plain-cotton-tshirt-2-pack-teal.jpg'
+  },
+  {
+    productName : 'Plain Hooded Fleece Sweatshirt',
+    id:4,
+    rating:4.5,
+    price:24.00,
+    color:['Yellow','Teal'],
+    size:['S','M','L'],
+    set:null,
+    style:null,
+    image:'https://supersimple.dev/projects/amazon/images/products/plain-hooded-fleece-sweatshirt-yellow.jpg'
+  },
+  {
+    productName : 'Luxury Towel Set - Graphite Gray',
+    id:5,
+    rating:4.5,
+    price:35.99,
+    color:null,
+    size:null,
+    set:['6-Piece','4-Piece'],
+    style:null,
+    image:'https://supersimple.dev/projects/amazon/images/products/luxury-tower-set-6-piece.jpg'
+  },
+  {
+    productName : 'Liquid Laundry Detergent, 110 Loads, 82.5 Fl Oz',
+    id:6,
+    rating:4.5,
+    price:28.99,
+    color:null,
+    size:null,
+    set:null,
+    style:['Plain','Lavender'],
+    image:'https://supersimple.dev/projects/amazon/images/products/liquid-laundry-detergent-plain.jpg'
+  },
+  {
+    productName : 'Black and Gray Athletic Cotton Socks - 6 Pairs',
+    id:7,
+    rating:4.5,
+    price:10.90,
+    color:null,
+    size:null,
+    set:null,
+    style:null,
+    image:'https://supersimple.dev/projects/amazon/images/products/athletic-cotton-socks-6-pairs.jpg'
+  },
+  {
+    productName : 'Intermediate Size Basketball',
+    id:8,
+    rating:4,
+    price:20.95,
+    color:null,
+    size:null,
+    set:null,
+    style:null,
+    image:'https://supersimple.dev/projects/amazon/images/products/intermediate-composite-basketball.jpg'
+  },
+  {
+    productName : 'Adults Plain Cotton T-Shirt - 2 Pack',
+    id:9,
+    rating:4.5,
+    price:7.99,
+    color:null,
+    size:null,
+    set:null,
+    style:null,
+    image:'https://supersimple.dev/projects/amazon/images/products/adults-plain-cotton-tshirt-2-pack-teal.jpg'
+  },
+  {
+    productName : 'Plain Hooded Fleece Sweatshirt',
+    id:10,
+    rating:4.5,
+    price:24.00,
+    color:['Yellow','Teal'],
+    size:['S','M','L'],
+    set:null,
+    style:null,
+    image:'https://supersimple.dev/projects/amazon/images/products/plain-hooded-fleece-sweatshirt-yellow.jpg'
+  },
+  {
+    productName : 'Luxury Towel Set - Graphite Gray',
+    id:11,
+    rating:4.5,
+    price:35.99,
+    color:null,
+    size:null,
+    set:['6-Piece','4-Piece'],
+    style:null,
+    image:'https://supersimple.dev/projects/amazon/images/products/luxury-tower-set-6-piece.jpg'
+  },
+  {
+    productName : 'Liquid Laundry Detergent, 110 Loads, 82.5 Fl Oz',
+    id:12,
+    rating:4.5,
+    price:28.99,
+    color:null,
+    size:null,
+    set:null,
+    style:['Plain','Lavender'],
+    image:'https://supersimple.dev/projects/amazon/images/products/liquid-laundry-detergent-plain.jpg'
+  },
+  {
+    productName : 'Black and Gray Athletic Cotton Socks - 6 Pairs',
+    id:13,
+    rating:4.5,
+    price:10.90,
+    color:null,
+    size:null,
+    set:null,
+    style:null,
+    image:'https://supersimple.dev/projects/amazon/images/products/athletic-cotton-socks-6-pairs.jpg'
+  },
+  {
+    productName : 'Intermediate Size Basketball',
+    id:14,
+    rating:4,
+    price:20.95,
+    color:null,
+    size:null,
+    set:null,
+    style:null,
+    image:'https://supersimple.dev/projects/amazon/images/products/intermediate-composite-basketball.jpg'
+  },
+  {
+    productName : 'Adults Plain Cotton T-Shirt - 2 Pack',
+    id:15,
+    rating:4.5,
+    price:7.99,
+    color:null,
+    size:null,
+    set:null,
+    style:null,
+    image:'https://supersimple.dev/projects/amazon/images/products/adults-plain-cotton-tshirt-2-pack-teal.jpg'
+  },
+  {
+    productName : 'Plain Hooded Fleece Sweatshirt',
+    id:16,
+    rating:4.5,
+    price:24.00,
+    color:['Yellow','Teal'],
+    size:['S','M','L'],
+    set:null,
+    style:null,
+    image:'https://supersimple.dev/projects/amazon/images/products/plain-hooded-fleece-sweatshirt-yellow.jpg'
+  },
+  {
+    productName : 'Luxury Towel Set - Graphite Gray',
+    id:17,
+    rating:4.5,
+    price:35.99,
+    color:null,
+    size:null,
+    set:['6-Piece','4-Piece'],
+    style:null,
+    image:'https://supersimple.dev/projects/amazon/images/products/luxury-tower-set-6-piece.jpg'
+  },
+  {
+    productName : 'Liquid Laundry Detergent, 110 Loads, 82.5 Fl Oz',
+    id:18,
+    rating:4.5,
+    price:28.99,
+    color:null,
+    size:null,
+    set:null,
+    style:['Plain','Lavender'],
+    image:'https://supersimple.dev/projects/amazon/images/products/liquid-laundry-detergent-plain.jpg'
+  },
+  
+]
